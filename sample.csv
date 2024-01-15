@@ -1,0 +1,1001 @@
+,USMER,Medical Unit,Sex,Patient Type,Date Died,Intubed,Pneumonia,Age of Patient,Pregnant,Diabetes,COPD,Asthma,Immunosuppressed,Hypertension,Other Disease,Cardiovascular,Obesity,Renal Chronic,Tobacco User,Classification,ICU Admission,Died
+0,2,1,Female,Returned Home,2020-03-05,,Yes,65,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,,yes
+1,2,1,Male,Returned Home,2020-03-06,,Yes,72,,No,No,No,No,Yes,No,No,Yes,Yes,No,Not COVID or Inconclusive,,yes
+2,2,1,Male,Hospitalization,2020-09-06,Yes,No,55,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+3,2,1,Female,Returned Home,2020-12-06,,No,53,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+4,2,1,Male,Returned Home,2020-06-21,,No,68,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,,yes
+5,2,1,Female,Hospitalization,,No,Yes,40,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,no
+6,2,1,Female,Returned Home,,,No,64,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+7,2,1,Female,Returned Home,,,Yes,64,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,COVID-3,,no
+8,2,1,Female,Hospitalization,,No,No,37,No,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,no
+9,2,1,Female,Hospitalization,,No,No,25,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,no
+10,2,1,Female,Returned Home,,,No,38,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+11,2,1,Male,Hospitalization,,No,No,24,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,no
+12,2,1,Male,Hospitalization,,No,No,30,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,no
+13,2,1,Male,Returned Home,,,No,55,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+14,2,1,Female,Returned Home,,,No,48,No,Yes,No,No,No,No,No,No,No,No,No,COVID-3,,no
+15,2,1,Female,Returned Home,,,No,23,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+16,2,1,Female,Hospitalization,,No,Yes,80,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,no
+17,2,1,Male,Returned Home,,,No,61,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+18,2,1,Male,Returned Home,,,No,54,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+19,2,1,Female,Returned Home,,,No,64,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+20,2,1,Male,Hospitalization,,No,Yes,59,,Yes,No,No,No,No,No,No,No,No,Yes,COVID-3,Yes,no
+21,2,1,Male,Returned Home,,,No,30,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+22,2,1,Male,Returned Home,,,No,45,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+23,2,1,Female,Returned Home,,,No,26,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+24,2,1,Female,Returned Home,,,No,38,No,No,No,No,No,No,No,No,No,Yes,No,COVID-3,,no
+25,2,1,Male,Returned Home,,,No,24,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+26,2,1,Male,Returned Home,,,No,32,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+27,2,1,Male,Returned Home,,,No,49,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+28,2,1,Male,Returned Home,,,No,39,,No,No,No,No,No,No,No,No,No,Yes,COVID-3,,no
+29,2,1,Male,Returned Home,,,No,27,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+30,2,1,Male,Hospitalization,,No,Yes,45,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,no
+31,2,1,Female,Returned Home,,,No,57,No,Yes,No,No,No,No,No,No,No,No,No,COVID-3,,no
+32,2,1,Male,Returned Home,,,No,25,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+33,2,1,Male,Returned Home,,,No,37,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+34,2,1,Female,Returned Home,,,No,49,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+35,2,1,Male,Returned Home,,,No,45,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+36,2,1,Female,Returned Home,,,No,20,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+37,2,1,Female,Returned Home,,,No,56,No,No,No,No,No,No,No,Yes,Yes,No,No,COVID-3,,no
+38,2,1,Male,Returned Home,,,No,47,,No,No,Yes,No,No,Yes,Yes,No,No,No,COVID-3,,no
+39,2,1,Female,Returned Home,,,No,50,No,No,No,No,No,No,No,No,No,No,Yes,COVID-3,,no
+40,2,1,Female,Returned Home,,,No,37,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+41,2,1,Male,Hospitalization,,Yes,Yes,45,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,no
+42,2,1,Female,Returned Home,,,No,46,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+43,2,1,Female,Returned Home,,,No,26,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+44,2,1,Female,Returned Home,,,No,43,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+45,2,1,Male,Returned Home,,,No,27,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+46,2,1,Female,Returned Home,,,No,28,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+47,2,1,Male,Returned Home,,,No,28,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+48,2,1,Female,Returned Home,,,No,25,No,No,No,Yes,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+49,2,1,Female,Returned Home,,,No,30,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+50,2,1,Female,Returned Home,,,No,23,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+51,2,1,Male,Returned Home,,,No,59,,No,Yes,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,,no
+52,2,1,Male,Returned Home,,,No,33,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+53,2,1,Male,Hospitalization,,No,No,16,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+54,2,1,Female,Returned Home,,,No,62,No,No,No,No,No,Yes,No,No,Yes,No,Yes,Not COVID or Inconclusive,,no
+55,2,1,Male,Hospitalization,,No,No,56,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+56,2,1,Female,Hospitalization,,Yes,Yes,58,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Not COVID or Inconclusive,Yes,no
+57,2,1,Female,Hospitalization,,Yes,Yes,48,No,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,Yes,no
+58,2,1,Male,Hospitalization,,No,Yes,36,,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,Yes,no
+59,2,1,Female,Returned Home,,,No,28,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+60,2,1,Female,Hospitalization,,No,No,25,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+61,2,1,Female,Hospitalization,,No,No,24,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+62,2,1,Female,Hospitalization,,No,No,25,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+63,2,1,Male,Returned Home,,,No,33,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+64,2,1,Female,Hospitalization,,No,No,30,No,No,No,No,No,No,Yes,No,No,No,No,Not COVID or Inconclusive,No,no
+65,2,1,Male,Hospitalization,,No,No,30,,Yes,No,No,No,No,No,No,Yes,No,Yes,Not COVID or Inconclusive,No,no
+66,2,1,Male,Hospitalization,,Yes,Yes,27,,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,Yes,no
+67,2,1,Female,Returned Home,,,No,25,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+68,2,1,Male,Returned Home,,,No,57,,No,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,,no
+69,2,1,Male,Returned Home,,,No,57,,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,,no
+70,2,1,Male,Returned Home,,,No,57,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+71,2,1,Female,Returned Home,,,No,44,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+72,2,1,Male,Returned Home,,,No,66,,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+73,2,1,Female,Returned Home,,,Yes,25,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+74,2,1,Female,Returned Home,,,No,24,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+75,2,1,Female,Returned Home,,,No,24,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+76,2,1,Female,Returned Home,,,No,25,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+77,2,1,Female,Returned Home,,,No,52,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+78,2,1,Female,Returned Home,,,No,51,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+79,2,1,Female,Returned Home,,,No,26,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+80,2,1,Female,Returned Home,,,No,23,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+81,2,1,Female,Returned Home,,,No,35,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+82,2,1,Female,Returned Home,,,No,56,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+83,2,1,Male,Returned Home,,,No,19,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+84,2,1,Male,Hospitalization,,No,No,90,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+85,2,1,Female,Returned Home,,,No,43,No,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,,no
+86,2,1,Female,Returned Home,,,No,27,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+87,2,1,Male,Returned Home,,,No,34,,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+88,2,1,Female,Returned Home,,,No,28,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+89,2,1,Female,Returned Home,,,No,32,No,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,,no
+90,2,1,Male,Returned Home,,,No,62,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+91,2,1,Female,Returned Home,,,No,37,No,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,,no
+92,2,1,Male,Returned Home,,,No,38,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+93,2,1,Female,Returned Home,,,No,34,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+94,2,1,Female,Returned Home,,,No,26,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+95,2,1,Female,Returned Home,,,No,49,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+96,2,1,Female,Returned Home,,,No,24,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+97,2,1,Male,Returned Home,,,No,28,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+98,2,1,Male,Returned Home,,,No,27,,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,,no
+99,2,1,Female,Returned Home,,,No,26,No,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,,no
+100,2,1,Female,Returned Home,,,No,27,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+101,2,1,Male,Returned Home,,,No,52,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+102,2,1,Male,Hospitalization,,Yes,Yes,30,,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,Yes,no
+103,2,1,Male,Hospitalization,,No,Yes,46,,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,Yes,no
+104,2,1,Male,Returned Home,,,No,56,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+105,2,1,Female,Returned Home,,,No,36,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+106,2,1,Female,Returned Home,,,No,66,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+107,2,1,Male,Returned Home,,,No,33,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+108,2,1,Male,Returned Home,,,No,38,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+109,2,1,Male,Returned Home,,,No,22,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+110,2,1,Female,Returned Home,,,No,59,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+111,2,1,Female,Returned Home,,,No,24,No,No,No,Yes,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+112,2,1,Female,Returned Home,,,No,34,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+113,2,1,Female,Returned Home,,,No,33,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+114,2,1,Male,Returned Home,,,No,39,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+115,2,1,Female,Returned Home,,,No,29,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+116,2,1,Female,Returned Home,,,No,56,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+117,2,1,Female,Returned Home,,,Yes,80,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+118,2,1,Female,Returned Home,,,No,20,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+119,2,1,Male,Returned Home,,,No,59,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+120,2,1,Female,Returned Home,,,No,27,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+121,2,1,Female,Returned Home,,,No,28,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+122,2,1,Male,Returned Home,,,No,66,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+123,2,1,Female,Returned Home,,,No,25,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+124,2,1,Male,Returned Home,,,No,58,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+125,2,1,Female,Returned Home,,,No,54,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+126,2,1,Female,Returned Home,,,No,36,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+127,2,1,Female,Returned Home,,,No,26,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+128,2,1,Male,Returned Home,,,No,34,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+129,2,1,Female,Returned Home,,,No,25,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+130,2,1,Female,Returned Home,,,No,34,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+131,2,1,Female,Returned Home,,,No,14,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+132,2,1,Male,Returned Home,,,No,68,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+133,2,1,Female,Returned Home,,,No,30,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+134,2,1,Female,Returned Home,,,No,28,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+135,2,1,Female,Returned Home,,,No,23,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+136,2,1,Female,Returned Home,,,No,56,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+137,2,1,Male,Returned Home,,,No,31,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+138,2,1,Male,Returned Home,,,No,50,,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+139,2,1,Female,Returned Home,,,No,42,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+140,2,1,Male,Returned Home,,,No,30,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+141,2,1,Female,Returned Home,,,No,36,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+142,2,1,Male,Returned Home,,,No,31,,No,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,,no
+143,2,1,Male,Returned Home,,,No,30,,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,,no
+144,2,1,Female,Returned Home,,,No,65,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+145,2,1,Male,Returned Home,,,No,51,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+146,2,1,Female,Returned Home,,,No,51,No,No,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,,no
+147,2,1,Male,Returned Home,,,No,30,,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,,no
+148,2,1,Female,Returned Home,,,No,64,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+149,2,1,Male,Returned Home,,,Yes,24,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+150,2,1,Female,Returned Home,,,No,15,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+151,1,2,Female,Hospitalization,2020-02-26,,,1,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+152,1,2,Male,Hospitalization,2020-05-04,Yes,Yes,14,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+153,1,2,Female,Hospitalization,2020-08-05,Yes,No,0,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+154,1,2,Male,Hospitalization,2020-05-20,Yes,Yes,17,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+155,1,2,Male,Hospitalization,2020-07-17,,Yes,0,,No,No,No,No,No,No,Yes,No,No,No,Not COVID or Inconclusive,,yes
+156,2,2,Male,Returned Home,,,No,46,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+157,2,2,Female,Returned Home,,,No,48,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+158,1,2,Male,Returned Home,,,No,17,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+159,1,2,Female,Returned Home,,,No,25,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+160,1,2,Female,Returned Home,,,No,41,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+161,1,2,Male,Hospitalization,,No,No,2,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,no
+162,1,2,Female,Hospitalization,,No,Yes,10,No,No,No,No,No,No,Yes,Yes,No,No,No,COVID-3,No,no
+163,1,2,Male,Hospitalization,,No,No,1,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,no
+164,1,2,Female,Hospitalization,,No,No,12,No,No,No,No,Yes,No,No,No,No,No,No,COVID-3,No,no
+165,1,2,Male,Returned Home,,,No,2,,No,No,No,No,No,No,No,No,No,No,COVID-3,,no
+166,1,2,Male,Hospitalization,,No,Yes,14,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,no
+167,2,2,Female,Returned Home,,,No,53,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,,no
+168,2,2,Female,Returned Home,,,No,41,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+169,1,2,Male,Returned Home,,,,13,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+170,1,2,Male,Returned Home,,,,2,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+171,1,2,Female,Returned Home,,,No,4,No,No,No,No,No,No,No,Yes,No,No,No,Not COVID or Inconclusive,,no
+172,1,2,Female,Returned Home,,,No,7,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+173,1,2,Female,Returned Home,,,No,6,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+174,1,2,Male,Returned Home,,,No,7,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+175,1,2,Male,Returned Home,,,No,6,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+176,1,2,Female,Returned Home,,,No,8,No,No,No,Yes,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+177,1,2,Male,Returned Home,,,No,0,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+178,1,2,Male,Returned Home,,,No,12,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+179,2,2,Female,Returned Home,,,No,60,No,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+180,2,2,Female,Returned Home,,,No,53,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+181,2,2,Female,Returned Home,,,No,16,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+182,1,2,Male,Returned Home,,,No,1,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+183,1,2,Female,Returned Home,,,No,5,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+184,1,2,Male,Returned Home,,,No,13,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+185,1,2,Male,Returned Home,,,No,10,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+186,1,2,Female,Returned Home,,,,1,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+187,1,2,Female,Hospitalization,,,,13,No,No,No,Yes,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+188,1,2,Female,Hospitalization,,No,No,1,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+189,1,2,Female,Hospitalization,,,,7,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+190,1,2,Male,Hospitalization,,No,No,1,,No,No,No,Yes,No,Yes,Yes,No,No,No,Not COVID or Inconclusive,No,no
+191,1,2,Male,Hospitalization,,,,5,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+192,1,2,Female,Hospitalization,,,,4,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+193,1,2,Female,Hospitalization,,,,1,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+194,1,2,Male,Hospitalization,,,,2,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+195,1,2,Male,Hospitalization,,No,Yes,7,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,Yes,no
+196,1,2,Male,Hospitalization,,No,Yes,1,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+197,1,2,Male,Hospitalization,,No,Yes,2,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+198,2,2,Female,Returned Home,,,No,41,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+199,1,2,Male,Hospitalization,,No,Yes,1,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+200,1,2,Female,Hospitalization,,No,No,4,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+201,1,2,Male,Hospitalization,,No,Yes,1,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+202,1,2,Male,Returned Home,,,No,7,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+203,1,2,Male,Hospitalization,,No,Yes,1,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+204,1,2,Female,Hospitalization,,No,Yes,0,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+205,1,2,Female,Returned Home,,,No,36,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+206,1,2,Female,Hospitalization,,No,No,12,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+207,1,2,Male,Hospitalization,,No,No,8,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+208,1,2,Male,Hospitalization,,No,No,1,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+209,1,2,Male,Hospitalization,,No,No,0,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+210,1,2,Male,Hospitalization,,Yes,Yes,17,,No,No,Yes,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,Yes,no
+211,2,2,Female,Returned Home,,,No,63,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+212,2,2,Female,Returned Home,,,No,68,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+213,2,2,Female,Returned Home,,,No,62,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+214,2,2,Female,Returned Home,,,No,53,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+215,2,2,Female,Returned Home,,,No,58,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+216,2,2,Female,Returned Home,,,No,35,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+217,2,2,Female,Returned Home,,,No,42,No,No,No,No,No,Yes,No,No,Yes,No,No,Not COVID or Inconclusive,,no
+218,2,2,Male,Returned Home,,,No,20,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+219,2,2,Female,Returned Home,,,No,47,No,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+220,2,2,Male,Returned Home,,,No,49,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+221,2,2,Female,Returned Home,,,No,75,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+222,2,2,Female,Returned Home,,,No,53,No,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+223,2,2,Female,Returned Home,,,No,53,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+224,2,2,Female,Returned Home,,,No,81,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+225,2,2,Female,Returned Home,,,No,17,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+226,2,2,Female,Returned Home,,,No,67,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+227,2,2,Female,Returned Home,,,No,18,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+228,2,2,Female,Returned Home,,,No,17,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+229,2,2,Female,Returned Home,,,No,58,No,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+230,2,2,Female,Returned Home,,,No,46,No,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,,no
+231,2,2,Female,Returned Home,,,No,25,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+232,2,2,Female,Returned Home,,,No,70,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+233,2,2,Female,Returned Home,,,No,88,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+234,2,2,Female,Returned Home,,,No,25,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+235,2,2,Female,Returned Home,,,No,85,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+236,2,2,Male,Returned Home,,,No,92,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+237,2,2,Female,Returned Home,,,No,64,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+238,2,2,Female,Returned Home,,,No,60,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+239,2,2,Female,Returned Home,,,No,75,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+240,2,2,Female,Returned Home,,,No,63,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+241,2,2,Female,Returned Home,,,No,16,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+242,2,2,Female,Returned Home,,,No,55,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+243,2,2,Male,Returned Home,,,No,62,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+244,2,2,Female,Returned Home,,,No,62,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+245,2,2,Female,Returned Home,,,No,73,No,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+246,2,2,Male,Returned Home,,,No,73,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+247,2,2,Female,Returned Home,,,No,18,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+248,2,2,Female,Returned Home,,,No,45,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+249,2,2,Female,Returned Home,,,No,74,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+250,2,2,Female,Returned Home,,,No,20,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+251,2,2,Female,Returned Home,,,No,60,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+252,2,2,Male,Returned Home,,,No,75,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+253,2,2,Female,Returned Home,,,No,80,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+254,2,2,Female,Returned Home,,,No,28,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+255,2,2,Male,Returned Home,,,No,70,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+256,2,2,Female,Returned Home,,,No,70,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+257,2,2,Female,Returned Home,,,No,17,No,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+258,2,2,Male,Returned Home,,,No,74,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+259,2,2,Male,Returned Home,,,No,74,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+260,2,2,Male,Returned Home,,,No,81,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+261,2,2,Female,Returned Home,,,No,22,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+262,2,2,Female,Returned Home,,,No,66,No,No,No,Yes,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+263,2,2,Female,Returned Home,,,No,52,No,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+264,2,2,Male,Returned Home,,,No,80,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+265,2,2,Female,Returned Home,,,No,24,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+266,2,2,Male,Returned Home,,,No,78,,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+267,2,2,Male,Returned Home,,,No,76,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+268,2,2,Female,Returned Home,,,No,27,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+269,2,2,Male,Returned Home,,,No,74,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+270,2,2,Male,Returned Home,,,No,85,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+271,2,2,Female,Returned Home,,,No,22,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+272,2,2,Female,Returned Home,,,No,16,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+273,2,2,Male,Returned Home,,,No,82,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+274,2,2,Male,Returned Home,,,No,81,,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+275,2,2,Male,Returned Home,,,No,75,,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+276,2,2,Male,Returned Home,,,No,81,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+277,2,2,Male,Returned Home,,,No,90,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+278,2,2,Male,Returned Home,,,No,77,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+279,2,2,Male,Returned Home,,,No,86,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+280,2,2,Male,Returned Home,,,No,72,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+281,2,2,Male,Returned Home,,,No,81,,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,no
+282,2,2,Male,Returned Home,,,No,71,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+283,2,2,Male,Returned Home,,,No,95,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+284,2,2,Female,Returned Home,,,No,70,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+285,2,2,Female,Returned Home,,,No,26,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+286,2,2,Male,Returned Home,,,No,92,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+287,2,2,Female,Returned Home,,,No,73,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+288,2,2,Female,Returned Home,,,No,32,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+289,2,2,Female,Returned Home,,,No,23,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+290,2,2,Female,Returned Home,,,No,34,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+291,2,2,Female,Returned Home,,,No,23,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+292,2,2,Female,Returned Home,,,No,25,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+293,2,2,Male,Returned Home,,,No,45,,No,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,,no
+294,2,2,Male,Returned Home,,,No,45,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+295,2,2,Male,Returned Home,,,No,51,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+296,2,2,Male,Returned Home,,,No,52,,No,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,,no
+297,1,2,Female,Hospitalization,,No,Yes,1,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+298,1,2,Male,Hospitalization,,No,Yes,0,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+299,1,2,Female,Hospitalization,,No,No,6,No,No,No,No,Yes,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+300,1,2,Male,Hospitalization,,No,Yes,16,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+301,1,2,Male,Hospitalization,,No,No,1,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+302,2,2,Female,Returned Home,,,No,56,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+303,2,2,Female,Returned Home,,,No,66,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+304,1,2,Female,Hospitalization,,No,Yes,8,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+305,1,2,Male,Hospitalization,,No,No,16,,No,No,No,Yes,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+306,2,2,Male,Returned Home,,,No,27,,No,No,Yes,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,,no
+307,1,2,Male,Hospitalization,,No,Yes,1,,No,No,No,No,No,No,Yes,No,No,No,Not COVID or Inconclusive,No,no
+308,1,2,Female,Hospitalization,,No,Yes,1,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+309,1,2,Female,Hospitalization,,No,No,6,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+310,1,2,Female,Hospitalization,,Yes,Yes,15,No,No,No,No,No,No,Yes,No,No,No,No,Not COVID or Inconclusive,Yes,no
+311,2,2,Female,Returned Home,,,No,14,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+312,2,2,Female,Returned Home,,,No,13,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,no
+313,1,2,Female,Hospitalization,,No,Yes,2,No,No,No,No,Yes,No,Yes,No,No,No,No,Not COVID or Inconclusive,No,no
+314,1,2,Female,Hospitalization,,No,Yes,1,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+315,1,2,Male,Hospitalization,,No,Yes,1,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+316,1,2,Female,Hospitalization,,No,Yes,10,No,No,No,No,Yes,No,Yes,No,No,No,No,Not COVID or Inconclusive,No,no
+317,1,2,Female,Hospitalization,,No,Yes,15,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+318,1,2,Female,Hospitalization,,No,No,4,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+319,1,2,Female,Hospitalization,,No,No,4,No,No,No,No,Yes,No,No,No,No,No,No,Not COVID or Inconclusive,No,no
+320,1,3,Female,Hospitalization,2020-01-13,,,47,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Not COVID or Inconclusive,,yes
+321,1,3,Female,Hospitalization,2020-01-22,,,75,No,No,Yes,No,No,No,No,Yes,No,No,No,Not COVID or Inconclusive,,yes
+322,1,3,Male,Hospitalization,2020-01-22,,,2,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+323,1,3,Male,Hospitalization,2020-01-29,,,59,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,yes
+324,1,3,Female,Hospitalization,2020-02-13,,,58,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+325,1,3,Male,Hospitalization,2020-02-18,No,No,43,,Yes,No,No,No,Yes,No,No,No,Yes,No,Not COVID or Inconclusive,No,yes
+326,1,3,Female,Hospitalization,2020-02-19,,,81,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Not COVID or Inconclusive,,yes
+327,1,3,Female,Hospitalization,2020-02-20,,,54,No,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+328,1,3,Female,Hospitalization,2020-02-24,,,56,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Not COVID or Inconclusive,,yes
+329,1,3,Female,Hospitalization,2020-04-03,,,67,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Not COVID or Inconclusive,,yes
+330,1,3,Female,Hospitalization,2020-07-03,Yes,No,64,No,No,No,No,No,No,Yes,No,No,Yes,No,Not COVID or Inconclusive,Yes,yes
+331,1,3,Male,Hospitalization,2020-12-03,,,64,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+332,1,3,Male,Hospitalization,2020-03-14,No,Yes,54,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+333,1,3,Male,Hospitalization,2020-03-18,Yes,Yes,59,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+334,2,3,Female,Hospitalization,2020-03-27,No,No,49,No,No,No,No,No,No,Yes,No,No,No,No,Not COVID or Inconclusive,No,yes
+335,1,3,Female,Hospitalization,2020-03-27,No,No,88,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Not COVID or Inconclusive,No,yes
+336,1,3,Male,Hospitalization,2020-03-28,No,Yes,47,,No,Yes,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+337,2,3,Male,Hospitalization,2020-03-29,No,Yes,43,,No,No,No,No,No,No,No,No,No,Yes,COVID-3,No,yes
+338,2,3,Male,Hospitalization,2020-02-04,No,Yes,86,,No,Yes,No,No,No,No,No,No,No,Yes,COVID-3,No,yes
+339,1,3,Female,Hospitalization,2020-05-04,Yes,No,53,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+340,1,3,Male,Hospitalization,2020-06-04,Yes,Yes,90,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+341,1,3,Male,Hospitalization,2020-07-04,Yes,Yes,61,,No,No,No,No,Yes,No,No,Yes,No,No,COVID-3,Yes,yes
+342,2,3,Female,Hospitalization,2020-07-04,Yes,Yes,73,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Not COVID or Inconclusive,No,yes
+343,1,3,Female,Hospitalization,2020-08-04,No,Yes,87,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Not COVID or Inconclusive,No,yes
+344,1,3,Male,Hospitalization,2020-09-04,No,Yes,88,,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,COVID-3,No,yes
+345,2,3,Male,Hospitalization,2020-09-04,Yes,Yes,60,,Yes,No,No,No,Yes,No,No,No,Yes,No,COVID-3,Yes,yes
+346,2,3,Male,Hospitalization,2020-10-04,Yes,Yes,42,,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+347,2,3,Female,Hospitalization,2020-10-04,No,Yes,72,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+348,1,3,Female,Hospitalization,2020-10-04,No,Yes,64,No,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+349,1,3,Male,Hospitalization,2020-10-04,Yes,Yes,63,,Yes,Yes,No,No,Yes,,No,Yes,No,Yes,Not COVID or Inconclusive,Yes,yes
+350,2,3,Female,Hospitalization,2020-10-04,Yes,Yes,63,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Not COVID or Inconclusive,No,yes
+351,2,3,Male,Hospitalization,2020-10-04,Yes,Yes,62,,No,Yes,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+352,2,3,Male,Hospitalization,2020-11-04,No,Yes,74,,Yes,No,No,No,Yes,No,No,No,No,Yes,COVID-3,No,yes
+353,2,3,Male,Hospitalization,2020-11-04,Yes,Yes,61,,No,No,No,No,Yes,No,Yes,No,No,No,COVID-3,No,yes
+354,2,3,Male,Hospitalization,2020-11-04,No,Yes,59,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+355,2,3,Female,Hospitalization,2020-11-04,Yes,Yes,49,No,Yes,No,No,No,No,Yes,,Yes,,,Not COVID or Inconclusive,No,yes
+356,1,3,Male,Hospitalization,2020-11-04,No,Yes,61,,Yes,No,No,Yes,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+357,2,3,Male,Hospitalization,2020-12-04,Yes,Yes,53,,No,No,No,No,Yes,No,No,No,No,Yes,COVID-3,No,yes
+358,1,3,Male,Hospitalization,2020-12-04,No,Yes,83,,No,Yes,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+359,1,3,Female,Hospitalization,2020-12-04,No,Yes,61,No,No,No,No,No,Yes,No,Yes,No,No,No,COVID-3,No,yes
+360,2,3,Female,Hospitalization,2020-12-04,Yes,Yes,57,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+361,2,3,Male,Hospitalization,2020-04-13,Yes,Yes,57,,No,No,No,No,No,No,No,Yes,No,Yes,COVID-3,No,yes
+362,1,3,Male,Hospitalization,2020-04-14,Yes,Yes,68,,Yes,No,No,No,Yes,No,No,No,Yes,Yes,COVID-3,No,yes
+363,1,3,Female,Hospitalization,2020-04-14,No,Yes,84,No,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+364,2,3,Male,Hospitalization,2020-04-14,Yes,Yes,57,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+365,2,3,Female,Hospitalization,2020-04-15,Yes,Yes,66,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+366,2,3,Female,Returned Home,2020-04-16,,Yes,46,No,Yes,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,,yes
+367,2,3,Male,Hospitalization,2020-04-17,No,Yes,26,,Yes,No,No,No,Yes,No,No,No,Yes,No,COVID-1,No,yes
+368,2,3,Male,Hospitalization,2020-04-17,Yes,Yes,45,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+369,1,3,Female,Hospitalization,2020-04-17,No,Yes,54,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Not COVID or Inconclusive,No,yes
+370,1,3,Male,Hospitalization,2020-04-18,No,Yes,70,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+371,1,3,Male,Hospitalization,2020-04-18,Yes,No,1,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+372,2,3,Male,Returned Home,2020-04-18,,Yes,57,,Yes,No,No,No,No,No,Yes,Yes,No,,Not COVID or Inconclusive,,yes
+373,2,3,Male,Hospitalization,2020-04-18,Yes,Yes,63,,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Not COVID or Inconclusive,No,yes
+374,2,3,Female,Hospitalization,2020-04-20,Yes,Yes,62,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+375,1,3,Female,Hospitalization,2020-04-20,No,Yes,58,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+376,2,3,Female,Returned Home,2020-04-20,,Yes,71,No,No,Yes,No,No,No,No,No,No,No,No,COVID-3,,yes
+377,2,3,Female,Hospitalization,2020-04-20,Yes,Yes,65,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,Yes,yes
+378,2,3,Male,Hospitalization,2020-04-20,No,Yes,57,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+379,1,3,Male,Hospitalization,2020-04-20,Yes,Yes,61,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+380,1,3,Male,Hospitalization,2020-04-21,Yes,Yes,80,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+381,1,3,Male,Hospitalization,2020-04-21,Yes,Yes,75,,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Not COVID or Inconclusive,Yes,yes
+382,2,3,Male,Returned Home,2020-04-21,,Yes,75,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,yes
+383,2,3,Male,Returned Home,2020-04-21,,No,39,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+384,1,3,Male,Hospitalization,2020-04-22,No,Yes,79,,Yes,No,No,No,Yes,Yes,Yes,No,No,No,COVID-3,No,yes
+385,2,3,Female,Hospitalization,2020-04-22,Yes,Yes,63,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+386,2,3,Male,Hospitalization,2020-04-22,No,Yes,65,,No,No,No,No,Yes,No,No,No,No,Yes,COVID-3,No,yes
+387,2,3,Male,Hospitalization,2020-04-22,Yes,Yes,60,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+388,1,3,Female,Hospitalization,2020-04-22,Yes,Yes,74,No,No,No,No,No,No,Yes,No,No,No,No,COVID-3,Yes,yes
+389,2,3,Male,Hospitalization,2020-04-23,No,Yes,70,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+390,2,3,Male,Hospitalization,2020-04-23,No,Yes,50,,No,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+391,2,3,Male,Hospitalization,2020-04-23,Yes,Yes,82,,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+392,1,3,Male,Hospitalization,2020-04-23,No,Yes,51,,Yes,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+393,1,3,Male,Hospitalization,2020-04-24,No,Yes,67,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+394,1,3,Male,Hospitalization,2020-04-24,No,Yes,56,,No,No,No,No,No,No,No,No,No,Yes,COVID-3,No,yes
+395,2,3,Female,Hospitalization,2020-04-24,Yes,Yes,59,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+396,1,3,Female,Hospitalization,2020-04-24,No,Yes,70,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+397,1,3,Female,Hospitalization,2020-04-24,Yes,Yes,69,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+398,1,3,Male,Hospitalization,2020-04-24,Yes,Yes,60,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+399,2,3,Male,Hospitalization,2020-04-24,Yes,Yes,77,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+400,1,3,Male,Hospitalization,2020-04-24,Yes,Yes,86,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+401,1,3,Male,Hospitalization,2020-04-24,No,Yes,57,,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,No,yes
+402,1,3,Female,Hospitalization,2020-04-24,No,Yes,88,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Not COVID or Inconclusive,No,yes
+403,2,3,Male,Returned Home,2020-04-24,,No,46,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+404,2,3,Male,Hospitalization,2020-04-25,Yes,Yes,55,,No,No,No,No,No,No,No,No,Yes,No,COVID-2,No,yes
+405,1,3,Female,Hospitalization,2020-04-25,No,Yes,54,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+406,2,3,Female,Hospitalization,2020-04-25,Yes,Yes,92,No,No,Yes,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+407,1,3,Male,Hospitalization,2020-04-25,,Yes,34,,No,No,No,No,No,No,No,Yes,No,No,COVID-3,,yes
+408,1,3,Female,Hospitalization,2020-04-25,No,Yes,68,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+409,1,3,Male,Hospitalization,2020-04-25,Yes,Yes,52,,No,No,No,No,Yes,No,No,No,Yes,No,COVID-3,No,yes
+410,2,3,Male,Returned Home,2020-04-25,,Yes,77,,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Not COVID or Inconclusive,,yes
+411,2,3,Male,Returned Home,2020-04-25,,No,52,,Yes,No,No,No,Yes,No,No,No,Yes,No,Not COVID or Inconclusive,,yes
+412,1,3,Male,Hospitalization,2020-04-25,No,Yes,63,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+413,2,3,Male,Returned Home,2020-04-25,,No,45,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+414,2,3,Male,Returned Home,2020-04-25,,No,55,,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Not COVID or Inconclusive,,yes
+415,1,3,Male,Hospitalization,2020-04-26,No,Yes,65,,Yes,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+416,2,3,Male,Hospitalization,2020-04-26,Yes,Yes,55,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+417,1,3,Female,Hospitalization,2020-04-26,Yes,Yes,60,No,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+418,1,3,Male,Hospitalization,2020-04-26,Yes,Yes,78,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+419,1,3,Female,Hospitalization,2020-04-26,No,Yes,71,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+420,2,3,Male,Hospitalization,2020-04-26,No,Yes,45,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+421,1,3,Male,Hospitalization,2020-04-27,No,Yes,56,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+422,2,3,Male,Hospitalization,2020-04-27,Yes,Yes,55,,Yes,No,No,No,Yes,No,Yes,Yes,No,No,COVID-3,No,yes
+423,1,3,Male,Hospitalization,2020-04-27,No,Yes,86,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+424,2,3,Male,Hospitalization,2020-04-27,Yes,Yes,69,,No,Yes,No,No,No,No,No,No,No,Yes,COVID-3,No,yes
+425,2,3,Male,Returned Home,2020-04-27,,No,55,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+426,2,3,Male,Hospitalization,2020-04-27,No,Yes,62,,Yes,No,No,No,Yes,No,No,No,No,Yes,Not COVID or Inconclusive,No,yes
+427,1,3,Male,Hospitalization,2020-04-28,No,No,72,,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,COVID-3,No,yes
+428,2,3,Female,Returned Home,2020-04-28,,Yes,65,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Not COVID or Inconclusive,,yes
+429,2,3,Female,Returned Home,2020-04-28,,No,65,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Not COVID or Inconclusive,,yes
+430,1,3,Male,Hospitalization,2020-04-29,No,Yes,47,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+431,2,3,Female,Hospitalization,2020-04-29,Yes,Yes,50,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,COVID-3,No,yes
+432,2,3,Male,Returned Home,2020-04-29,,Yes,53,,No,No,No,No,No,No,No,Yes,No,Yes,COVID-3,,yes
+433,1,3,Female,Hospitalization,2020-04-29,No,Yes,62,,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+434,1,3,Male,Hospitalization,2020-04-29,No,Yes,57,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+435,1,3,Female,Hospitalization,2020-04-29,No,Yes,83,No,Yes,No,No,,Yes,Yes,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+436,1,3,Male,Hospitalization,2020-04-30,Yes,Yes,73,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+437,2,3,Female,Hospitalization,2020-04-30,Yes,Yes,64,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+438,2,3,Female,Hospitalization,2020-04-30,No,Yes,76,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Not COVID or Inconclusive,No,yes
+439,1,3,Female,Hospitalization,2020-04-30,Yes,Yes,83,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Not COVID or Inconclusive,Yes,yes
+440,2,3,Male,Hospitalization,2020-01-05,Yes,Yes,64,,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+441,1,3,Male,Hospitalization,2020-01-05,Yes,Yes,59,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+442,2,3,Male,Hospitalization,2020-01-05,No,Yes,84,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+443,1,3,Female,Hospitalization,2020-01-05,No,Yes,65,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+444,1,3,Male,Hospitalization,2020-01-05,Yes,Yes,62,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+445,2,3,Male,Hospitalization,2020-01-05,No,Yes,64,,No,No,No,No,No,No,No,Yes,No,Yes,COVID-3,No,yes
+446,2,3,Female,Hospitalization,2020-01-05,No,Yes,83,No,,No,No,,,No,No,Yes,No,No,COVID-3,No,yes
+447,1,3,Male,Hospitalization,2020-01-05,Yes,Yes,60,,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Not COVID or Inconclusive,No,yes
+448,1,3,Male,Hospitalization,2020-02-05,Yes,Yes,54,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+449,2,3,Male,Hospitalization,2020-02-05,Yes,Yes,53,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+450,1,3,Male,Hospitalization,2020-02-05,Yes,Yes,66,,No,No,No,No,Yes,No,Yes,No,No,No,COVID-3,No,yes
+451,1,3,Male,Hospitalization,2020-02-05,No,Yes,63,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+452,1,3,Male,Hospitalization,2020-02-05,No,Yes,66,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+453,1,3,Male,Hospitalization,2020-02-05,No,Yes,79,,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Not COVID or Inconclusive,No,yes
+454,2,3,Male,Returned Home,2020-02-05,,No,47,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+455,1,3,Male,Hospitalization,2020-03-05,Yes,Yes,61,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+456,2,3,Male,Returned Home,2020-03-05,,No,57,,Yes,No,No,No,Yes,No,No,No,Yes,No,COVID-3,,yes
+457,1,3,Male,Hospitalization,2020-03-05,No,Yes,50,,Yes,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+458,2,3,Female,Returned Home,2020-03-05,,Yes,39,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,yes
+459,1,3,Male,Hospitalization,2020-03-05,No,Yes,60,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+460,1,3,Male,Hospitalization,2020-03-05,No,Yes,64,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+461,1,3,Male,Hospitalization,2020-04-05,No,Yes,54,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+462,1,3,Male,Hospitalization,2020-04-05,No,Yes,67,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+463,2,3,Female,Hospitalization,2020-04-05,No,Yes,58,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+464,1,3,Female,Hospitalization,2020-04-05,Yes,Yes,48,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+465,1,3,Female,Hospitalization,2020-04-05,Yes,Yes,48,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+466,1,3,Male,Hospitalization,2020-04-05,No,No,86,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+467,2,3,Female,Hospitalization,2020-05-05,Yes,Yes,65,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+468,1,3,Male,Hospitalization,2020-05-05,No,Yes,57,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+469,1,3,Male,Hospitalization,2020-05-05,No,Yes,67,,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+470,1,3,Female,Hospitalization,2020-05-05,Yes,No,69,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+471,2,3,Female,Hospitalization,2020-05-05,Yes,Yes,73,No,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+472,1,3,Male,Hospitalization,2020-05-05,No,Yes,32,,No,No,No,No,Yes,No,No,No,Yes,No,COVID-3,No,yes
+473,1,3,Male,Hospitalization,2020-05-05,No,Yes,55,,No,No,No,No,No,No,No,No,No,Yes,COVID-3,No,yes
+474,2,3,Male,Hospitalization,2020-06-05,Yes,Yes,57,,No,No,No,No,No,No,No,No,No,Yes,COVID-3,No,yes
+475,1,3,Male,Hospitalization,2020-06-05,Yes,Yes,76,,Yes,No,No,No,Yes,No,Yes,No,No,No,COVID-3,No,yes
+476,2,3,Male,Hospitalization,2020-06-05,No,No,55,,No,No,No,No,No,No,No,Yes,No,Yes,COVID-3,No,yes
+477,1,3,Male,Hospitalization,2020-06-05,No,Yes,45,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+478,2,3,Female,Hospitalization,2020-06-05,No,Yes,78,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Not COVID or Inconclusive,No,yes
+479,1,3,Male,Hospitalization,2020-06-05,Yes,Yes,70,,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,No,yes
+480,1,3,Male,Hospitalization,2020-07-05,No,Yes,73,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+481,2,3,Female,Hospitalization,2020-07-05,Yes,Yes,63,No,No,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+482,1,3,Male,Hospitalization,2020-07-05,No,No,55,,No,No,No,No,Yes,Yes,No,No,No,No,COVID-3,No,yes
+483,1,3,Female,Hospitalization,2020-07-05,No,No,64,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+484,1,3,Female,Hospitalization,2020-08-05,Yes,Yes,79,No,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+485,1,3,Male,Hospitalization,2020-08-05,Yes,Yes,52,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+486,1,3,Male,Hospitalization,2020-08-05,Yes,Yes,46,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+487,1,3,Male,Hospitalization,2020-08-05,Yes,Yes,58,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+488,1,3,Male,Hospitalization,2020-08-05,Yes,Yes,52,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+489,2,3,Male,Hospitalization,2020-08-05,No,Yes,64,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+490,1,3,Female,Hospitalization,2020-08-05,Yes,Yes,66,No,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+491,1,3,Male,Hospitalization,2020-08-05,No,Yes,84,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+492,1,3,Male,Hospitalization,2020-09-05,Yes,Yes,54,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+493,1,3,Male,Hospitalization,2020-09-05,No,Yes,66,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+494,2,3,Male,Hospitalization,2020-09-05,No,No,51,,Yes,No,No,No,Yes,No,Yes,No,Yes,No,COVID-3,No,yes
+495,2,3,Female,Hospitalization,2020-09-05,Yes,Yes,61,No,No,No,No,No,No,Yes,No,No,No,No,Not COVID or Inconclusive,No,yes
+496,2,3,Male,Hospitalization,2020-09-05,No,No,78,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+497,2,3,Male,Hospitalization,2020-10-05,Yes,Yes,67,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+498,2,3,Male,Hospitalization,2020-10-05,Yes,Yes,52,,No,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+499,1,3,Male,Hospitalization,2020-10-05,No,Yes,71,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+500,1,3,Male,Hospitalization,2020-10-05,No,Yes,60,,Yes,No,No,No,Yes,No,No,No,Yes,No,Not COVID or Inconclusive,No,yes
+501,2,3,Female,Hospitalization,2020-10-05,No,Yes,55,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+502,2,3,Male,Returned Home,2020-10-05,,No,39,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+503,2,3,Female,Hospitalization,2020-10-05,No,Yes,83,No,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+504,2,3,Male,Hospitalization,2020-10-05,No,Yes,45,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+505,1,3,Female,Hospitalization,2020-11-05,Yes,No,39,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+506,1,3,Male,Hospitalization,2020-11-05,No,Yes,41,,Yes,No,No,No,No,No,No,No,No,Yes,COVID-3,Yes,yes
+507,1,3,Male,Hospitalization,2020-11-05,Yes,Yes,86,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+508,2,3,Male,Hospitalization,2020-11-05,,Yes,51,,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,COVID-3,,yes
+509,1,3,Male,Hospitalization,2020-11-05,No,No,48,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+510,1,3,Female,Hospitalization,2020-11-05,No,Yes,47,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+511,1,3,Male,Hospitalization,2020-12-05,Yes,Yes,60,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+512,1,3,Male,Hospitalization,2020-12-05,Yes,Yes,60,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+513,1,3,Male,Hospitalization,2020-12-05,No,Yes,72,,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+514,2,3,Male,Hospitalization,2020-12-05,,No,58,,Yes,No,No,No,No,No,No,Yes,No,No,COVID-3,,yes
+515,2,3,Female,Hospitalization,2020-12-05,Yes,Yes,55,No,No,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+516,2,3,Male,Hospitalization,2020-12-05,Yes,Yes,68,,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+517,2,3,Male,Hospitalization,2020-12-05,No,Yes,20,,No,No,No,Yes,No,Yes,No,No,No,No,Not COVID or Inconclusive,No,yes
+518,2,3,Male,Hospitalization,2020-12-05,Yes,Yes,67,,No,No,No,No,No,Yes,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+519,1,3,Female,Hospitalization,2020-05-13,Yes,Yes,60,No,No,No,Yes,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+520,1,3,Male,Hospitalization,2020-05-13,Yes,Yes,56,,No,No,No,No,Yes,No,No,Yes,No,Yes,COVID-3,Yes,yes
+521,1,3,Male,Hospitalization,2020-05-13,Yes,Yes,73,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+522,2,3,Female,Hospitalization,2020-05-13,Yes,Yes,71,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,COVID-3,No,yes
+523,1,3,Female,Hospitalization,2020-05-13,Yes,Yes,44,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+524,2,3,Male,Hospitalization,2020-05-13,No,Yes,87,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+525,2,3,Male,Hospitalization,2020-05-13,No,Yes,71,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+526,2,3,Female,Returned Home,2020-05-13,,No,75,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,COVID-3,,yes
+527,1,3,Female,Hospitalization,2020-05-13,Yes,Yes,45,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+528,2,3,Male,Hospitalization,2020-05-14,No,Yes,48,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+529,1,3,Female,Hospitalization,2020-05-14,No,No,57,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+530,1,3,Female,Hospitalization,2020-05-14,No,Yes,41,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+531,1,3,Male,Hospitalization,2020-05-14,No,Yes,40,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+532,1,3,Male,Hospitalization,2020-05-14,No,Yes,68,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+533,1,3,Male,Hospitalization,2020-05-14,Yes,Yes,14,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+534,1,3,Female,Hospitalization,2020-05-14,No,No,56,No,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+535,2,3,Male,Hospitalization,2020-05-15,No,No,81,,No,No,No,No,Yes,No,No,No,No,No,COVID-2,No,yes
+536,1,3,Male,Hospitalization,2020-05-15,Yes,Yes,50,,Yes,No,No,No,No,No,No,Yes,No,No,COVID-3,Yes,yes
+537,1,3,Female,Hospitalization,2020-05-15,Yes,Yes,39,No,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+538,1,3,Male,Hospitalization,2020-05-15,No,Yes,62,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+539,2,3,Female,Hospitalization,2020-05-15,No,Yes,40,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+540,2,3,Male,Hospitalization,2020-05-15,No,Yes,78,,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,COVID-3,No,yes
+541,1,3,Male,Hospitalization,2020-05-15,No,Yes,65,,No,No,No,No,Yes,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+542,1,3,Female,Hospitalization,2020-05-15,No,No,49,No,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+543,1,3,Male,Hospitalization,2020-05-15,No,No,65,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+544,2,3,Female,Hospitalization,2020-05-15,Yes,Yes,52,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Not COVID or Inconclusive,Yes,yes
+545,2,3,Female,Hospitalization,2020-05-15,No,Yes,58,No,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+546,2,3,Female,Hospitalization,2020-05-16,Yes,Yes,60,No,Yes,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+547,1,3,Female,Hospitalization,2020-05-16,Yes,Yes,55,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+548,1,3,Male,Hospitalization,2020-05-16,No,Yes,75,,No,No,No,No,No,No,No,No,No,Yes,COVID-3,No,yes
+549,1,3,Female,Hospitalization,2020-05-16,Yes,Yes,69,No,Yes,No,No,No,No,No,No,No,No,Yes,COVID-3,Yes,yes
+550,1,3,Male,Hospitalization,2020-05-16,No,No,75,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+551,1,3,Male,Hospitalization,2020-05-16,No,Yes,56,,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+552,1,3,Male,Hospitalization,2020-05-16,No,Yes,50,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+553,2,3,Male,Hospitalization,2020-05-16,No,Yes,69,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+554,1,3,Male,Hospitalization,2020-05-16,Yes,Yes,59,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+555,2,3,Male,Hospitalization,2020-05-16,No,Yes,51,,No,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+556,2,3,Male,Hospitalization,2020-05-16,Yes,Yes,58,,No,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+557,1,3,Male,Hospitalization,2020-05-16,Yes,Yes,56,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+558,1,3,Female,Hospitalization,2020-05-16,Yes,Yes,82,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+559,2,3,Female,Hospitalization,2020-05-17,Yes,Yes,50,No,Yes,No,No,No,No,No,No,Yes,No,No,COVID-3,Yes,yes
+560,1,3,Male,Hospitalization,2020-05-17,Yes,Yes,59,,No,No,No,No,No,No,No,Yes,No,Yes,COVID-3,Yes,yes
+561,1,3,Male,Hospitalization,2020-05-17,Yes,Yes,54,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+562,1,3,Male,Hospitalization,2020-05-17,No,Yes,63,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+563,1,3,Male,Hospitalization,2020-05-17,No,No,45,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+564,1,3,Female,Hospitalization,2020-05-17,No,No,72,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+565,1,3,Female,Hospitalization,2020-05-17,Yes,Yes,52,No,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+566,1,3,Male,Hospitalization,2020-05-17,No,Yes,75,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+567,1,3,Female,Hospitalization,2020-05-17,No,Yes,46,No,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+568,1,3,Male,Hospitalization,2020-05-17,Yes,Yes,59,,No,No,No,No,No,No,No,Yes,No,Yes,Not COVID or Inconclusive,No,yes
+569,1,3,Male,Hospitalization,2020-05-18,Yes,Yes,77,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+570,2,3,Female,Hospitalization,2020-05-18,No,Yes,65,No,No,No,No,No,No,No,Yes,Yes,No,Yes,COVID-3,No,yes
+571,1,3,Female,Hospitalization,2020-05-18,Yes,Yes,57,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+572,2,3,Male,Hospitalization,2020-05-18,Yes,Yes,65,,No,No,No,No,No,No,No,No,Yes,No,COVID-3,No,yes
+573,2,3,Female,Hospitalization,2020-05-18,Yes,Yes,68,No,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+574,1,3,Male,Hospitalization,2020-05-18,Yes,Yes,46,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+575,2,3,Female,Hospitalization,2020-05-18,No,Yes,70,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,COVID-3,No,yes
+576,2,3,Female,Hospitalization,2020-05-18,No,Yes,67,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+577,1,3,Male,Hospitalization,2020-05-18,No,Yes,82,,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Not COVID or Inconclusive,No,yes
+578,1,3,Male,Hospitalization,2020-05-19,Yes,Yes,61,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+579,1,3,Male,Hospitalization,2020-05-19,Yes,Yes,52,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+580,2,3,Female,Hospitalization,2020-05-19,Yes,Yes,80,No,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+581,1,3,Female,Hospitalization,2020-05-19,Yes,Yes,47,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+582,1,3,Male,Hospitalization,2020-05-19,No,Yes,62,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+583,2,3,Male,Returned Home,2020-05-19,,Yes,22,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,,yes
+584,1,3,Male,Hospitalization,2020-05-19,No,Yes,62,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+585,2,3,Male,Hospitalization,2020-05-19,,Yes,72,,No,No,No,No,Yes,No,Yes,Yes,Yes,No,COVID-3,,yes
+586,1,3,Male,Hospitalization,2020-05-19,No,Yes,62,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+587,1,3,Male,Hospitalization,2020-05-19,No,Yes,61,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+588,1,3,Male,Hospitalization,2020-05-20,Yes,Yes,53,,No,No,No,No,No,No,No,No,No,Yes,COVID-3,Yes,yes
+589,1,3,Female,Hospitalization,2020-05-20,Yes,Yes,57,No,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+590,2,3,Male,Hospitalization,2020-05-20,No,Yes,88,,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+591,2,3,Female,Hospitalization,2020-05-20,No,Yes,66,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,COVID-3,No,yes
+592,2,3,Female,Hospitalization,2020-05-20,No,No,58,No,No,No,No,No,No,Yes,No,No,No,No,COVID-3,No,yes
+593,2,3,Female,Returned Home,2020-05-20,,Yes,63,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,yes
+594,1,3,Male,Hospitalization,2020-05-20,Yes,Yes,56,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+595,2,3,Female,Hospitalization,2020-05-20,No,No,81,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+596,2,3,Female,Hospitalization,2020-05-20,Yes,Yes,55,No,No,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+597,2,3,Male,Hospitalization,2020-05-21,,Yes,60,,No,No,No,No,Yes,No,No,No,No,No,COVID-2,,yes
+598,2,3,Male,Hospitalization,2020-05-21,Yes,Yes,53,,No,No,No,Yes,Yes,Yes,Yes,No,No,No,COVID-3,No,yes
+599,1,3,Male,Hospitalization,2020-05-21,No,Yes,65,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+600,1,3,Female,Hospitalization,2020-05-21,No,Yes,47,No,Yes,No,No,Yes,No,No,No,No,No,No,COVID-3,No,yes
+601,1,3,Female,Hospitalization,2020-05-21,No,No,59,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+602,1,3,Female,Hospitalization,2020-05-21,Yes,Yes,55,No,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+603,2,3,Male,Hospitalization,2020-05-21,Yes,Yes,54,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+604,1,3,Male,Hospitalization,2020-05-21,Yes,Yes,45,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+605,1,3,Female,Hospitalization,2020-05-21,No,No,63,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+606,1,3,Female,Hospitalization,2020-05-21,No,Yes,45,No,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+607,1,3,Male,Hospitalization,2020-05-21,No,Yes,64,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+608,1,3,Male,Hospitalization,2020-05-21,No,Yes,40,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+609,2,3,Female,Returned Home,2020-05-21,,No,48,No,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+610,1,3,Male,Hospitalization,2020-05-21,No,Yes,53,,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+611,1,3,Male,Hospitalization,2020-05-21,No,No,79,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+612,2,3,Female,Hospitalization,2020-05-22,Yes,Yes,70,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+613,1,3,Male,Hospitalization,2020-05-22,No,No,61,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+614,1,3,Female,Hospitalization,2020-05-22,No,Yes,55,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+615,1,3,Male,Hospitalization,2020-05-22,Yes,Yes,38,,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,Yes,yes
+616,2,3,Male,Hospitalization,2020-05-22,No,No,82,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+617,1,3,Male,Hospitalization,2020-05-22,No,Yes,76,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+618,1,3,Female,Hospitalization,2020-05-22,Yes,Yes,72,No,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,Yes,yes
+619,1,3,Female,Hospitalization,2020-05-22,No,No,71,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+620,2,3,Male,Hospitalization,2020-05-22,Yes,Yes,61,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+621,1,3,Male,Hospitalization,2020-05-22,Yes,Yes,57,,Yes,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,Yes,yes
+622,1,3,Male,Hospitalization,2020-05-22,No,Yes,43,,No,No,No,No,Yes,No,No,No,No,Yes,Not COVID or Inconclusive,No,yes
+623,1,3,Female,Hospitalization,2020-05-22,No,No,72,No,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+624,2,3,Male,Hospitalization,2020-05-23,Yes,Yes,36,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+625,1,3,Male,Hospitalization,2020-05-23,Yes,Yes,49,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+626,1,3,Male,Hospitalization,2020-05-23,No,Yes,50,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+627,1,3,Male,Hospitalization,2020-05-23,No,No,49,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+628,2,3,Female,Hospitalization,2020-05-23,Yes,Yes,81,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,COVID-3,No,yes
+629,2,3,Male,Returned Home,2020-05-23,,Yes,80,,No,No,No,No,No,No,No,No,No,No,COVID-3,,yes
+630,1,3,Male,Hospitalization,2020-05-23,No,Yes,86,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+631,1,3,Male,Hospitalization,2020-05-23,No,No,80,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+632,1,3,Female,Hospitalization,2020-05-23,No,Yes,73,No,Yes,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+633,1,3,Male,Hospitalization,2020-05-23,No,Yes,78,,No,No,No,No,Yes,No,Yes,No,No,No,COVID-3,No,yes
+634,2,3,Female,Hospitalization,2020-05-23,No,Yes,32,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+635,1,3,Male,Hospitalization,2020-05-23,No,No,57,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+636,1,3,Female,Hospitalization,2020-05-23,No,No,67,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Not COVID or Inconclusive,No,yes
+637,2,3,Male,Hospitalization,2020-05-24,Yes,Yes,44,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+638,2,3,Female,Returned Home,2020-05-24,,No,48,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,yes
+639,1,3,Male,Hospitalization,2020-05-24,No,Yes,51,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+640,1,3,Male,Hospitalization,2020-05-24,No,Yes,68,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+641,1,3,Male,Hospitalization,2020-05-24,No,Yes,79,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+642,1,3,Female,Hospitalization,2020-05-24,Yes,Yes,80,No,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+643,2,3,Male,Returned Home,2020-05-24,,Yes,61,,No,No,No,No,No,No,No,No,No,No,COVID-3,,yes
+644,2,3,Male,Hospitalization,2020-05-24,No,Yes,48,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+645,1,3,Male,Hospitalization,2020-05-24,Yes,Yes,78,,Yes,No,No,No,No,No,Yes,No,No,Yes,COVID-3,No,yes
+646,2,3,Male,Hospitalization,2020-05-24,No,Yes,55,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+647,2,3,Female,Hospitalization,2020-05-24,No,Yes,30,No,No,No,No,No,Yes,No,No,No,Yes,No,Not COVID or Inconclusive,No,yes
+648,1,3,Female,Hospitalization,2020-05-24,No,No,66,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+649,2,3,Male,Hospitalization,2020-05-24,No,Yes,69,,Yes,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+650,2,3,Female,Returned Home,2020-05-24,,No,39,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+651,1,3,Female,Hospitalization,2020-05-24,No,No,66,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+652,1,3,Male,Hospitalization,2020-05-24,No,No,50,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+653,1,3,Female,Hospitalization,2020-05-24,No,Yes,38,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+654,2,3,Female,Hospitalization,2020-05-25,Yes,Yes,81,No,No,No,No,No,Yes,Yes,No,No,No,No,COVID-3,No,yes
+655,1,3,Male,Hospitalization,2020-05-25,Yes,Yes,78,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+656,1,3,Female,Hospitalization,2020-05-25,No,Yes,75,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+657,1,3,Female,Hospitalization,2020-05-25,No,Yes,78,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+658,2,3,Male,Hospitalization,2020-05-25,Yes,Yes,26,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+659,1,3,Male,Hospitalization,2020-05-25,No,Yes,90,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+660,1,3,Male,Hospitalization,2020-05-25,No,Yes,54,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+661,1,3,Male,Hospitalization,2020-05-25,No,No,37,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+662,1,3,Male,Hospitalization,2020-05-25,No,No,36,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+663,2,3,Female,Hospitalization,2020-05-25,No,Yes,68,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+664,2,3,Male,Hospitalization,2020-05-25,No,No,76,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+665,1,3,Male,Hospitalization,2020-05-25,No,Yes,50,,No,Yes,No,No,No,No,No,No,No,No,COVID-3,No,yes
+666,2,3,Male,Hospitalization,2020-05-25,No,Yes,79,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+667,2,3,Female,Returned Home,2020-05-25,,No,48,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,,yes
+668,1,3,Male,Hospitalization,2020-05-25,No,Yes,75,,No,No,No,Yes,No,No,No,No,No,No,COVID-3,No,yes
+669,2,3,Male,Hospitalization,2020-05-25,Yes,Yes,45,,No,Yes,No,No,Yes,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+670,1,3,Male,Hospitalization,2020-05-25,No,Yes,67,,No,No,No,No,No,No,No,No,,No,Not COVID or Inconclusive,Yes,yes
+671,1,3,Male,Hospitalization,2020-05-25,Yes,Yes,42,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+672,2,3,Female,Returned Home,2020-05-25,,No,51,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+673,2,3,Male,Hospitalization,2020-05-25,No,Yes,52,,Yes,No,No,No,Yes,No,No,No,Yes,No,Not COVID or Inconclusive,No,yes
+674,2,3,Female,Hospitalization,2020-05-26,No,Yes,85,No,No,No,No,Yes,Yes,Yes,No,No,No,No,COVID-2,No,yes
+675,2,3,Male,Hospitalization,2020-05-26,No,Yes,58,,No,No,No,No,Yes,No,No,Yes,No,No,COVID-2,No,yes
+676,1,3,Female,Hospitalization,2020-05-26,No,No,66,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+677,1,3,Male,Hospitalization,2020-05-26,No,Yes,53,,No,No,No,No,No,No,Yes,No,No,No,COVID-3,No,yes
+678,1,3,Female,Hospitalization,2020-05-26,No,No,42,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+679,2,3,Male,Hospitalization,2020-05-26,No,Yes,64,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+680,1,3,Female,Hospitalization,2020-05-26,No,Yes,42,No,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+681,1,3,Female,Hospitalization,2020-05-26,No,Yes,57,No,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+682,1,3,Male,Hospitalization,2020-05-26,No,Yes,62,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+683,1,3,Female,Hospitalization,2020-05-26,No,Yes,79,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,COVID-3,No,yes
+684,1,3,Female,Hospitalization,2020-05-26,No,No,51,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+685,1,3,Female,Hospitalization,2020-05-26,No,Yes,83,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+686,1,3,Male,Hospitalization,2020-05-26,No,Yes,79,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+687,2,3,Female,Hospitalization,2020-05-26,Yes,No,83,No,No,Yes,No,No,No,Yes,No,No,No,No,Not COVID or Inconclusive,No,yes
+688,2,3,Male,Hospitalization,2020-05-26,No,Yes,51,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+689,1,3,Male,Hospitalization,2020-05-27,Yes,Yes,46,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+690,1,3,Female,Hospitalization,2020-05-27,No,Yes,59,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+691,2,3,Female,Hospitalization,2020-05-27,No,Yes,73,No,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+692,1,3,Male,Hospitalization,2020-05-27,No,Yes,55,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+693,1,3,Female,Hospitalization,2020-05-27,No,Yes,54,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+694,2,3,Male,Hospitalization,2020-05-27,Yes,Yes,46,,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+695,1,3,Male,Hospitalization,2020-05-27,No,Yes,36,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+696,1,3,Male,Hospitalization,2020-05-27,No,Yes,46,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+697,2,3,Female,Hospitalization,2020-05-27,No,Yes,78,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+698,1,3,Female,Hospitalization,2020-05-27,No,No,74,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+699,1,3,Female,Hospitalization,2020-05-27,No,No,63,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+700,2,3,Female,Hospitalization,2020-05-27,No,No,68,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+701,1,3,Female,Hospitalization,2020-05-27,No,Yes,82,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+702,2,3,Female,Hospitalization,2020-05-27,No,Yes,67,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+703,1,3,Female,Returned Home,2020-05-27,,Yes,85,No,No,Yes,No,No,No,No,No,No,No,No,COVID-3,,yes
+704,1,3,Female,Hospitalization,2020-05-27,No,No,40,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+705,1,3,Female,Hospitalization,2020-05-27,No,No,40,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+706,1,3,Male,Hospitalization,2020-05-27,No,Yes,23,,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Not COVID or Inconclusive,No,yes
+707,2,3,Male,Hospitalization,2020-05-28,Yes,Yes,70,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+708,2,3,Male,Hospitalization,2020-05-28,Yes,Yes,42,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+709,1,3,Male,Hospitalization,2020-05-28,Yes,Yes,85,,Yes,No,No,No,No,No,Yes,Yes,Yes,No,COVID-3,No,yes
+710,2,3,Female,Hospitalization,2020-05-28,Yes,Yes,67,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+711,1,3,Male,Hospitalization,2020-05-28,No,Yes,85,,No,Yes,No,No,No,No,No,No,No,No,COVID-3,No,yes
+712,1,3,Female,Hospitalization,2020-05-28,No,Yes,43,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+713,2,3,Male,Hospitalization,2020-05-28,No,Yes,77,,Yes,No,No,No,Yes,No,No,No,Yes,No,COVID-3,No,yes
+714,1,3,Female,Hospitalization,2020-05-28,No,Yes,66,No,No,No,No,No,No,,No,No,No,No,COVID-3,Yes,yes
+715,1,3,Female,Hospitalization,2020-05-28,Yes,Yes,54,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+716,1,3,Male,Hospitalization,2020-05-28,No,No,62,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+717,2,3,Female,Hospitalization,2020-05-28,Yes,Yes,77,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+718,1,3,Female,Hospitalization,2020-05-28,No,Yes,86,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+719,2,3,Male,Hospitalization,2020-05-28,Yes,Yes,63,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+720,1,3,Male,Hospitalization,2020-05-28,No,Yes,55,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+721,1,3,Male,Hospitalization,2020-05-28,No,No,56,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+722,1,3,Male,Hospitalization,2020-05-28,No,No,57,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+723,2,3,Male,Hospitalization,2020-05-29,Yes,Yes,72,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+724,1,3,Male,Hospitalization,2020-05-29,,Yes,61,,No,No,No,No,No,No,No,No,No,No,COVID-3,,yes
+725,2,3,Female,Hospitalization,2020-05-29,Yes,Yes,53,No,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+726,1,3,Female,Hospitalization,2020-05-29,No,Yes,63,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+727,1,3,Female,Hospitalization,2020-05-29,Yes,Yes,62,No,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+728,1,3,Male,Hospitalization,2020-05-29,No,No,51,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+729,1,3,Male,Hospitalization,2020-05-29,No,Yes,59,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+730,1,3,Male,Hospitalization,2020-05-29,No,Yes,82,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+731,2,3,Male,Hospitalization,2020-05-29,,Yes,83,,No,No,No,No,No,No,No,No,No,No,COVID-3,,yes
+732,1,3,Male,Hospitalization,2020-05-29,No,Yes,63,,Yes,No,No,Yes,No,No,No,No,No,No,COVID-3,Yes,yes
+733,1,3,Male,Hospitalization,2020-05-29,No,Yes,54,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+734,1,3,Female,Hospitalization,2020-05-29,No,No,64,No,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+735,2,3,Female,Hospitalization,2020-05-29,No,Yes,75,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Not COVID or Inconclusive,No,yes
+736,1,3,Male,Hospitalization,2020-05-29,No,Yes,89,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+737,1,3,Male,Hospitalization,2020-05-30,Yes,Yes,58,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+738,2,3,Male,Hospitalization,2020-05-30,No,Yes,50,,Yes,No,No,Yes,Yes,No,No,No,Yes,No,COVID-3,No,yes
+739,1,3,Male,Hospitalization,2020-05-30,No,Yes,46,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+740,2,3,Male,Hospitalization,2020-05-30,No,Yes,57,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+741,1,3,Female,Hospitalization,2020-05-30,Yes,Yes,50,No,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+742,2,3,Female,Hospitalization,2020-05-30,Yes,Yes,77,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+743,1,3,Female,Hospitalization,2020-05-30,No,Yes,63,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+744,2,3,Male,Hospitalization,2020-05-30,No,Yes,67,,No,No,No,No,No,No,No,No,No,Yes,COVID-3,No,yes
+745,1,3,Male,Hospitalization,2020-05-30,No,Yes,69,,No,Yes,No,No,No,No,Yes,No,No,Yes,COVID-3,No,yes
+746,1,3,Female,Hospitalization,2020-05-30,No,Yes,84,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+747,1,3,Male,Hospitalization,2020-05-30,No,Yes,85,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+748,2,3,Male,Hospitalization,2020-05-30,No,Yes,67,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+749,1,3,Male,Hospitalization,2020-05-30,No,Yes,86,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+750,1,3,Male,Hospitalization,2020-05-31,No,Yes,53,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+751,1,3,Male,Hospitalization,2020-05-31,No,Yes,77,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+752,1,3,Male,Hospitalization,2020-05-31,Yes,Yes,52,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+753,1,3,Male,Hospitalization,2020-05-31,No,Yes,76,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+754,1,3,Male,Hospitalization,2020-05-31,No,Yes,55,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+755,1,3,Male,Hospitalization,2020-05-31,Yes,Yes,45,,No,No,No,No,Yes,No,No,No,Yes,No,COVID-3,Yes,yes
+756,2,3,Male,Hospitalization,2020-05-31,No,Yes,62,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+757,1,3,Female,Hospitalization,2020-05-31,No,Yes,71,No,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+758,2,3,Male,Returned Home,2020-05-31,,No,57,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,,yes
+759,2,3,Male,Returned Home,2020-05-31,,Yes,55,,No,No,No,No,No,No,No,No,No,No,COVID-3,,yes
+760,2,3,Male,Hospitalization,2020-05-31,,Yes,88,,No,No,No,No,No,No,No,No,No,No,COVID-3,,yes
+761,2,3,Male,Returned Home,2020-05-31,,No,43,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+762,1,3,Male,Hospitalization,2020-05-31,No,No,77,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+763,2,3,Female,Hospitalization,2020-01-06,Yes,Yes,65,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,COVID-2,No,yes
+764,1,3,Male,Hospitalization,2020-01-06,No,Yes,57,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+765,1,3,Female,Hospitalization,2020-01-06,Yes,Yes,68,No,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+766,2,3,Female,Hospitalization,2020-01-06,No,Yes,67,No,Yes,No,No,No,Yes,No,No,No,Yes,No,COVID-3,No,yes
+767,1,3,Male,Hospitalization,2020-01-06,Yes,Yes,42,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+768,2,3,Male,Returned Home,2020-01-06,,Yes,45,,No,No,No,No,No,No,No,No,No,No,COVID-3,,yes
+769,1,3,Male,Hospitalization,2020-01-06,No,Yes,59,,No,No,No,No,Yes,No,Yes,No,No,No,COVID-3,No,yes
+770,1,3,Male,Hospitalization,2020-01-06,No,Yes,44,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+771,1,3,Male,Hospitalization,2020-01-06,No,Yes,43,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+772,2,3,Male,Hospitalization,2020-01-06,Yes,Yes,47,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+773,2,3,Female,Hospitalization,2020-01-06,No,Yes,55,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+774,2,3,Female,Hospitalization,2020-01-06,No,Yes,49,No,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+775,1,3,Male,Hospitalization,2020-01-06,No,Yes,78,,No,No,No,No,No,No,No,No,No,Yes,COVID-3,Yes,yes
+776,1,3,Male,Hospitalization,2020-01-06,No,Yes,36,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+777,1,3,Female,Hospitalization,2020-01-06,,Yes,63,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,COVID-3,,yes
+778,2,3,Male,Returned Home,2020-01-06,,Yes,61,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+779,1,3,Male,Hospitalization,2020-01-06,No,No,46,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+780,2,3,Male,Hospitalization,2020-01-06,,No,70,,Yes,No,No,No,Yes,No,No,Yes,No,No,Not COVID or Inconclusive,,yes
+781,2,3,Male,Hospitalization,2020-01-06,No,No,40,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+782,2,3,Female,Returned Home,2020-01-06,,No,54,No,No,No,No,Yes,No,Yes,No,No,No,No,Not COVID or Inconclusive,,yes
+783,2,3,Male,Hospitalization,2020-02-06,No,Yes,58,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+784,2,3,Female,Hospitalization,2020-02-06,No,Yes,41,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+785,1,3,Male,Hospitalization,2020-02-06,Yes,Yes,58,,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,Yes,yes
+786,1,3,Female,Hospitalization,2020-02-06,No,Yes,46,No,No,No,No,Yes,No,Yes,No,No,No,No,COVID-3,No,yes
+787,1,3,Female,Hospitalization,2020-02-06,No,Yes,61,No,No,No,Yes,No,Yes,No,No,Yes,No,No,COVID-3,Yes,yes
+788,1,3,Male,Hospitalization,2020-02-06,No,Yes,85,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+789,1,3,Male,Hospitalization,2020-02-06,No,Yes,53,,No,No,No,No,No,No,No,No,No,Yes,COVID-3,No,yes
+790,2,3,Male,Hospitalization,2020-02-06,Yes,Yes,63,,,,,,,,,,,,COVID-3,Yes,yes
+791,2,3,Female,Hospitalization,2020-02-06,Yes,Yes,63,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+792,2,3,Female,Hospitalization,2020-02-06,,No,61,No,Yes,No,No,No,No,No,No,No,No,No,COVID-3,,yes
+793,1,3,Male,Hospitalization,2020-02-06,No,No,70,,Yes,No,No,No,Yes,No,No,Yes,Yes,No,COVID-3,No,yes
+794,2,3,Female,Hospitalization,2020-02-06,No,Yes,50,No,Yes,No,No,No,No,No,No,No,Yes,No,Not COVID or Inconclusive,No,yes
+795,2,3,Male,Hospitalization,2020-02-06,No,No,72,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+796,2,3,Female,Hospitalization,2020-03-06,Yes,Yes,71,No,No,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+797,2,3,Male,Hospitalization,2020-03-06,Yes,Yes,67,,Yes,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+798,1,3,Female,Hospitalization,2020-03-06,Yes,Yes,78,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+799,1,3,Female,Hospitalization,2020-03-06,No,Yes,65,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+800,1,3,Male,Hospitalization,2020-03-06,No,Yes,59,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+801,1,3,Male,Hospitalization,2020-03-06,No,Yes,64,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+802,1,3,Female,Hospitalization,2020-03-06,No,Yes,70,No,No,No,No,No,Yes,No,No,Yes,No,No,COVID-3,Yes,yes
+803,2,3,Female,Returned Home,2020-03-06,,Yes,68,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,,yes
+804,1,3,Female,Hospitalization,2020-03-06,Yes,Yes,72,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,COVID-3,Yes,yes
+805,1,3,Female,Hospitalization,2020-03-06,Yes,Yes,72,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,COVID-3,Yes,yes
+806,1,3,Female,Hospitalization,2020-03-06,Yes,Yes,63,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+807,1,3,Male,Hospitalization,2020-03-06,No,Yes,50,,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+808,2,3,Male,Returned Home,2020-03-06,,Yes,84,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+809,2,3,Male,Hospitalization,2020-03-06,No,Yes,73,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+810,1,3,Male,Hospitalization,2020-04-06,No,Yes,65,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+811,2,3,Male,Returned Home,2020-04-06,,Yes,66,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,,yes
+812,1,3,Male,Hospitalization,2020-04-06,Yes,Yes,54,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+813,1,3,Male,Hospitalization,2020-04-06,No,Yes,67,,No,Yes,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+814,2,3,Female,Hospitalization,2020-04-06,Yes,Yes,57,No,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+815,1,3,Male,Hospitalization,2020-04-06,Yes,Yes,60,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+816,1,3,Male,Hospitalization,2020-04-06,No,Yes,62,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+817,2,3,Male,Hospitalization,2020-04-06,No,Yes,63,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+818,1,3,Male,Hospitalization,2020-04-06,Yes,Yes,75,,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,Yes,yes
+819,2,3,Male,Hospitalization,2020-04-06,No,Yes,56,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+820,1,3,Male,Hospitalization,2020-04-06,No,Yes,63,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+821,1,3,Female,Hospitalization,2020-04-06,Yes,Yes,82,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+822,2,3,Female,Hospitalization,2020-04-06,No,Yes,44,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+823,2,3,Male,Hospitalization,2020-04-06,Yes,Yes,59,,No,No,No,No,No,No,No,No,Yes,No,Not COVID or Inconclusive,No,yes
+824,2,3,Male,Hospitalization,2020-04-06,Yes,Yes,48,,No,No,No,No,Yes,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+825,2,3,Female,Hospitalization,2020-04-06,No,Yes,46,No,No,No,No,No,No,No,No,No,Yes,No,Not COVID or Inconclusive,No,yes
+826,1,3,Male,Hospitalization,2020-04-06,Yes,Yes,68,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+827,2,3,Male,Hospitalization,2020-05-06,Yes,Yes,43,,No,No,No,No,No,No,No,No,No,Yes,COVID-3,No,yes
+828,1,3,Male,Hospitalization,2020-05-06,No,Yes,84,,No,No,No,No,Yes,Yes,No,No,No,No,COVID-3,No,yes
+829,1,3,Male,Hospitalization,2020-05-06,Yes,Yes,68,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+830,1,3,Male,Returned Home,2020-05-06,,Yes,84,,Yes,Yes,No,No,No,No,No,No,No,No,COVID-3,,yes
+831,1,3,Male,Hospitalization,2020-05-06,,Yes,46,,No,No,No,No,No,No,No,Yes,No,No,COVID-3,,yes
+832,1,3,Female,Hospitalization,2020-05-06,No,Yes,39,No,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+833,1,3,Female,Hospitalization,2020-05-06,No,Yes,74,No,No,No,No,No,Yes,No,Yes,Yes,No,No,COVID-3,Yes,yes
+834,2,3,Male,Hospitalization,2020-05-06,No,No,63,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+835,1,3,Male,Hospitalization,2020-05-06,No,No,64,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+836,1,3,Male,Hospitalization,2020-05-06,Yes,Yes,78,,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+837,1,3,Female,Hospitalization,2020-05-06,Yes,Yes,50,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+838,1,3,Male,Hospitalization,2020-05-06,No,Yes,65,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+839,1,3,Female,Hospitalization,2020-05-06,Yes,Yes,68,No,No,No,No,Yes,No,Yes,No,No,No,No,COVID-3,No,yes
+840,1,3,Male,Hospitalization,2020-05-06,No,Yes,59,,No,No,No,No,No,No,No,No,Yes,No,COVID-3,No,yes
+841,1,3,Male,Hospitalization,2020-05-06,Yes,Yes,75,,Yes,No,No,No,Yes,Yes,No,Yes,No,No,COVID-3,No,yes
+842,1,3,Female,Hospitalization,2020-05-06,No,Yes,56,No,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+843,2,3,Male,Returned Home,2020-05-06,,Yes,41,,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Not COVID or Inconclusive,,yes
+844,2,3,Female,Hospitalization,2020-05-06,Yes,Yes,68,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+845,2,3,Male,Hospitalization,2020-06-06,Yes,Yes,47,,Yes,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+846,2,3,Female,Hospitalization,2020-06-06,No,Yes,50,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+847,1,3,Male,Hospitalization,2020-06-06,No,Yes,31,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+848,1,3,Female,Hospitalization,2020-06-06,Yes,Yes,66,No,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,Yes,yes
+849,1,3,Female,Hospitalization,2020-06-06,No,No,43,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+850,1,3,Female,Hospitalization,2020-06-06,No,No,48,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+851,1,3,Male,Hospitalization,2020-06-06,No,Yes,75,,Yes,No,No,No,Yes,,No,Yes,No,No,COVID-3,Yes,yes
+852,1,3,Female,Returned Home,2020-06-06,,Yes,69,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,,yes
+853,2,3,Female,Hospitalization,2020-06-06,Yes,Yes,75,No,,,,,,,,,,,COVID-3,Yes,yes
+854,2,3,Male,Hospitalization,2020-06-06,Yes,Yes,82,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+855,2,3,Male,Hospitalization,2020-06-06,No,No,90,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+856,1,3,Male,Hospitalization,2020-07-06,Yes,Yes,31,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+857,1,3,Female,Hospitalization,2020-07-06,No,No,44,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+858,1,3,Male,Hospitalization,2020-07-06,No,Yes,74,,No,No,No,No,No,,No,No,No,No,COVID-3,Yes,yes
+859,1,3,Male,Hospitalization,2020-07-06,Yes,Yes,39,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+860,1,3,Male,Hospitalization,2020-07-06,No,Yes,41,,No,No,No,No,No,No,No,Yes,No,Yes,COVID-3,No,yes
+861,1,3,Female,Hospitalization,2020-07-06,No,Yes,73,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+862,1,3,Male,Hospitalization,2020-07-06,Yes,Yes,63,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+863,1,3,Female,Hospitalization,2020-07-06,No,Yes,74,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+864,1,3,Female,Hospitalization,2020-07-06,No,Yes,65,No,Yes,No,No,No,Yes,No,No,No,Yes,No,COVID-3,Yes,yes
+865,2,3,Male,Hospitalization,2020-07-06,No,Yes,66,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+866,2,3,Male,Hospitalization,2020-07-06,Yes,Yes,43,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+867,2,3,Female,Hospitalization,2020-07-06,Yes,Yes,34,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+868,2,3,Male,Hospitalization,2020-08-06,,No,51,,No,No,No,No,No,No,No,No,No,No,COVID-2,,yes
+869,1,3,Female,Hospitalization,2020-08-06,No,Yes,41,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+870,1,3,Male,Hospitalization,2020-08-06,No,Yes,55,,No,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+871,1,3,Female,Hospitalization,2020-08-06,Yes,Yes,43,No,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+872,1,3,Male,Hospitalization,2020-08-06,No,Yes,71,,Yes,No,No,Yes,Yes,Yes,No,No,No,No,COVID-3,Yes,yes
+873,1,3,Female,Hospitalization,2020-08-06,No,Yes,57,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+874,2,3,Male,Hospitalization,2020-08-06,Yes,Yes,70,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+875,1,3,Male,Hospitalization,2020-08-06,No,Yes,72,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+876,1,3,Female,Hospitalization,2020-08-06,No,No,68,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+877,1,3,Male,Hospitalization,2020-08-06,Yes,Yes,47,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+878,1,3,Male,Hospitalization,2020-08-06,No,No,73,,Yes,No,No,No,Yes,No,No,No,Yes,No,COVID-3,No,yes
+879,1,3,Female,Hospitalization,2020-08-06,Yes,Yes,61,No,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,Yes,yes
+880,1,3,Male,Hospitalization,2020-08-06,No,Yes,57,,Yes,No,No,No,Yes,No,No,No,Yes,No,COVID-3,Yes,yes
+881,1,3,Male,Hospitalization,2020-08-06,No,Yes,63,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+882,1,3,Female,Hospitalization,2020-08-06,No,No,61,No,Yes,No,No,No,Yes,,No,Yes,No,No,Not COVID or Inconclusive,Yes,yes
+883,2,3,Male,Hospitalization,2020-08-06,Yes,Yes,76,,Yes,No,No,No,No,No,No,No,Yes,No,Not COVID or Inconclusive,No,yes
+884,2,3,Male,Hospitalization,2020-08-06,No,Yes,89,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+885,2,3,Male,Hospitalization,2020-08-06,No,Yes,43,,No,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+886,2,3,Male,Returned Home,2020-08-06,,Yes,35,,No,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,,yes
+887,1,3,Male,Hospitalization,2020-09-06,No,Yes,55,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+888,2,3,Female,Hospitalization,2020-09-06,Yes,Yes,52,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+889,2,3,Male,Hospitalization,2020-09-06,No,Yes,50,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+890,2,3,Female,Returned Home,2020-09-06,,Yes,56,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,,yes
+891,2,3,Female,Hospitalization,2020-09-06,Yes,Yes,80,No,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+892,1,3,Female,Hospitalization,2020-09-06,No,Yes,64,No,No,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+893,1,3,Male,Hospitalization,2020-09-06,No,Yes,64,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+894,2,3,Male,Returned Home,2020-09-06,,Yes,60,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,,yes
+895,1,3,Male,Hospitalization,2020-09-06,Yes,Yes,53,,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+896,2,3,Female,Returned Home,2020-09-06,,Yes,27,No,No,No,No,No,No,No,No,No,No,No,COVID-3,,yes
+897,2,3,Female,Hospitalization,2020-09-06,No,Yes,82,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+898,1,3,Male,Hospitalization,2020-09-06,No,Yes,78,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+899,2,3,Male,Hospitalization,2020-09-06,Yes,Yes,67,,No,No,No,Yes,Yes,Yes,No,Yes,No,No,COVID-3,No,yes
+900,1,3,Male,Hospitalization,2020-09-06,No,Yes,57,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+901,1,3,Male,Hospitalization,2020-09-06,Yes,Yes,47,,No,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,Yes,yes
+902,2,3,Male,Returned Home,2020-09-06,,No,80,,Yes,No,No,No,Yes,No,No,No,No,Yes,Not COVID or Inconclusive,,yes
+903,1,3,Male,Hospitalization,2020-09-06,Yes,Yes,71,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+904,2,3,Male,Returned Home,2020-09-06,,No,48,,Yes,No,No,No,No,No,No,No,Yes,No,Not COVID or Inconclusive,,yes
+905,2,3,Male,Hospitalization,2020-10-06,,No,52,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,,yes
+906,1,3,Male,Hospitalization,2020-10-06,No,Yes,78,,No,No,No,No,No,No,Yes,No,No,No,COVID-3,No,yes
+907,1,3,Male,Hospitalization,2020-10-06,No,Yes,69,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+908,1,3,Male,Hospitalization,2020-10-06,Yes,Yes,52,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+909,1,3,Male,Hospitalization,2020-10-06,No,Yes,83,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+910,2,3,Female,Hospitalization,2020-10-06,,Yes,76,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,,yes
+911,1,3,Female,Hospitalization,2020-10-06,No,Yes,65,No,Yes,No,No,No,Yes,,Yes,Yes,No,No,COVID-3,Yes,yes
+912,1,3,Male,Hospitalization,2020-10-06,Yes,Yes,42,,No,No,No,No,No,No,No,Yes,No,No,COVID-3,Yes,yes
+913,2,3,Female,Hospitalization,2020-10-06,No,Yes,73,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+914,1,3,Male,Hospitalization,2020-10-06,Yes,Yes,58,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+915,2,3,Male,Hospitalization,2020-10-06,No,Yes,86,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+916,2,3,Male,Hospitalization,2020-10-06,Yes,Yes,39,,No,No,No,No,No,No,No,No,Yes,No,Not COVID or Inconclusive,No,yes
+917,1,3,Male,Hospitalization,2020-10-06,,Yes,84,,Yes,No,No,No,Yes,No,No,Yes,No,No,Not COVID or Inconclusive,,yes
+918,2,3,Male,Hospitalization,2020-10-06,Yes,Yes,56,,No,No,No,No,No,No,No,No,Yes,No,Not COVID or Inconclusive,Yes,yes
+919,2,3,Female,Hospitalization,2020-10-06,No,Yes,76,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Not COVID or Inconclusive,No,yes
+920,1,3,Male,Hospitalization,2020-11-06,No,Yes,71,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+921,1,3,Male,Hospitalization,2020-11-06,Yes,Yes,84,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+922,2,3,Male,Returned Home,2020-11-06,,Yes,77,,No,No,No,No,No,No,No,Yes,No,No,COVID-3,,yes
+923,2,3,Male,Returned Home,2020-11-06,,Yes,41,,No,No,No,No,No,No,No,No,No,Yes,COVID-3,,yes
+924,1,3,Female,Hospitalization,2020-11-06,No,Yes,54,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+925,1,3,Female,Hospitalization,2020-11-06,Yes,Yes,73,No,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,Yes,yes
+926,2,3,Male,Hospitalization,2020-11-06,Yes,No,65,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+927,1,3,Female,Hospitalization,2020-11-06,No,Yes,61,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+928,1,3,Male,Hospitalization,2020-11-06,No,Yes,68,,Yes,No,No,No,Yes,No,No,No,Yes,No,COVID-3,No,yes
+929,1,3,Male,Hospitalization,2020-11-06,No,No,44,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+930,1,3,Male,Hospitalization,2020-11-06,No,No,49,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+931,1,3,Male,Hospitalization,2020-11-06,No,Yes,89,,Yes,Yes,No,No,Yes,Yes,No,No,No,No,COVID-3,No,yes
+932,1,3,Female,Hospitalization,2020-11-06,Yes,Yes,78,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+933,1,3,Male,Hospitalization,2020-11-06,Yes,Yes,88,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+934,1,3,Male,Hospitalization,2020-11-06,No,Yes,45,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+935,2,3,Female,Hospitalization,2020-11-06,No,Yes,69,No,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+936,2,3,Male,Hospitalization,2020-11-06,Yes,Yes,59,,Yes,Yes,No,No,Yes,No,No,No,Yes,No,COVID-3,No,yes
+937,2,3,Female,Hospitalization,2020-11-06,Yes,Yes,80,No,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+938,1,3,Female,Hospitalization,2020-11-06,No,Yes,68,No,Yes,Yes,No,No,Yes,,,Yes,Yes,No,Not COVID or Inconclusive,No,yes
+939,2,3,Male,Hospitalization,2020-11-06,No,No,47,,No,No,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,No,yes
+940,2,3,Male,Hospitalization,2020-11-06,No,No,38,,No,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+941,1,3,Female,Hospitalization,2020-11-06,No,Yes,87,No,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+942,1,3,Male,Hospitalization,2020-11-06,No,Yes,62,,Yes,No,No,No,Yes,No,Yes,No,No,No,Not COVID or Inconclusive,Yes,yes
+943,2,3,Male,Hospitalization,2020-12-06,No,Yes,83,,No,No,No,No,Yes,No,No,Yes,No,No,COVID-2,No,yes
+944,1,3,Male,Hospitalization,2020-12-06,Yes,Yes,67,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+945,1,3,Male,Hospitalization,2020-12-06,No,Yes,79,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+946,2,3,Male,Hospitalization,2020-12-06,No,Yes,66,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+947,1,3,Male,Hospitalization,2020-12-06,No,Yes,70,,Yes,No,No,No,Yes,No,No,No,Yes,No,COVID-3,No,yes
+948,1,3,Male,Hospitalization,2020-12-06,Yes,Yes,51,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+949,1,3,Male,Hospitalization,2020-12-06,Yes,Yes,3,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+950,1,3,Male,Hospitalization,2020-12-06,No,No,65,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+951,2,3,Female,Hospitalization,2020-12-06,No,Yes,78,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+952,1,3,Male,Hospitalization,2020-12-06,Yes,Yes,69,,Yes,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+953,1,3,Male,Hospitalization,2020-12-06,Yes,Yes,69,,No,No,No,No,Yes,No,Yes,No,No,No,COVID-3,Yes,yes
+954,1,3,Female,Hospitalization,2020-12-06,Yes,Yes,77,No,Yes,No,No,No,No,No,Yes,Yes,No,No,COVID-3,No,yes
+955,1,3,Male,Hospitalization,2020-12-06,Yes,Yes,70,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+956,1,3,Female,Hospitalization,2020-12-06,No,Yes,74,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,COVID-3,No,yes
+957,2,3,Male,Hospitalization,2020-12-06,No,Yes,82,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+958,2,3,Male,Hospitalization,2020-12-06,Yes,Yes,47,,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+959,2,3,Male,Hospitalization,2020-12-06,Yes,Yes,47,,No,No,No,No,No,No,No,Yes,No,No,Not COVID or Inconclusive,No,yes
+960,2,3,Male,Returned Home,2020-12-06,,No,67,,Yes,Yes,No,No,No,No,No,No,No,Yes,Not COVID or Inconclusive,,yes
+961,2,3,Female,Returned Home,2020-12-06,,No,56,No,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,,yes
+962,1,3,Male,Hospitalization,2020-12-06,No,Yes,76,,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+963,2,3,Female,Returned Home,2020-12-06,,Yes,45,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Not COVID or Inconclusive,,yes
+964,1,3,Male,Hospitalization,2020-12-06,Yes,Yes,0,,No,No,No,No,No,No,Yes,No,No,No,Not COVID or Inconclusive,No,yes
+965,1,3,Male,Hospitalization,2020-12-06,Yes,Yes,56,,No,No,No,Yes,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+966,1,3,Male,Hospitalization,2020-06-13,Yes,Yes,44,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+967,1,3,Female,Hospitalization,2020-06-13,Yes,Yes,26,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+968,2,3,Female,Hospitalization,2020-06-13,Yes,Yes,43,No,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+969,2,3,Female,Hospitalization,2020-06-13,Yes,Yes,23,Yes,No,No,No,No,No,No,No,Yes,No,No,COVID-3,Yes,yes
+970,1,3,Male,Hospitalization,2020-06-13,Yes,Yes,56,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+971,1,3,Female,Hospitalization,2020-06-13,Yes,Yes,77,No,Yes,Yes,No,No,No,No,No,No,No,No,COVID-3,No,yes
+972,2,3,Male,Hospitalization,2020-06-13,Yes,Yes,80,,Yes,No,No,No,Yes,No,No,Yes,No,Yes,COVID-3,No,yes
+973,2,3,Female,Hospitalization,2020-06-13,Yes,Yes,77,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,COVID-3,No,yes
+974,2,3,Male,Hospitalization,2020-06-13,Yes,Yes,50,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+975,1,3,Male,Hospitalization,2020-06-13,Yes,Yes,56,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,Yes,yes
+976,1,3,Male,Hospitalization,2020-06-13,No,Yes,69,,No,Yes,No,No,No,No,No,No,No,Yes,COVID-3,Yes,yes
+977,1,3,Male,Hospitalization,2020-06-13,No,Yes,83,,Yes,No,No,No,Yes,No,No,No,Yes,Yes,COVID-3,No,yes
+978,1,3,Female,Hospitalization,2020-06-13,No,Yes,52,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+979,1,3,Male,Hospitalization,2020-06-13,No,Yes,41,,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+980,1,3,Male,Hospitalization,2020-06-13,No,Yes,73,,No,No,No,No,No,No,No,Yes,No,No,COVID-3,No,yes
+981,1,3,Female,Hospitalization,2020-06-13,Yes,Yes,38,No,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+982,2,3,Male,Hospitalization,2020-06-13,,Yes,74,,No,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,,yes
+983,1,3,Male,Hospitalization,2020-06-13,No,Yes,48,,No,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
+984,2,3,Male,Hospitalization,2020-06-14,No,Yes,38,,No,No,No,No,No,No,No,Yes,No,No,COVID-1,No,yes
+985,2,3,Male,Hospitalization,2020-06-14,Yes,Yes,38,,No,No,No,No,No,No,No,Yes,No,No,COVID-2,No,yes
+986,2,3,Male,Hospitalization,2020-06-14,Yes,Yes,66,,No,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+987,2,3,Female,Hospitalization,2020-06-14,Yes,Yes,65,No,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+988,2,3,Male,Hospitalization,2020-06-14,No,Yes,50,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+989,1,3,Male,Hospitalization,2020-06-14,No,Yes,69,,Yes,No,No,Yes,Yes,No,Yes,No,No,No,COVID-3,No,yes
+990,2,3,Male,Hospitalization,2020-06-14,Yes,Yes,73,,Yes,No,No,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+991,1,3,Male,Hospitalization,2020-06-14,Yes,Yes,57,,Yes,No,No,No,Yes,No,Yes,Yes,No,No,COVID-3,No,yes
+992,1,3,Female,Hospitalization,2020-06-14,No,Yes,79,No,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+993,2,3,Female,Hospitalization,2020-06-14,Yes,Yes,60,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,COVID-3,No,yes
+994,2,3,Male,Hospitalization,2020-06-14,Yes,Yes,51,,No,No,No,No,No,No,No,No,No,No,COVID-3,Yes,yes
+995,2,3,Male,Hospitalization,2020-06-14,No,Yes,52,,Yes,No,No,No,Yes,No,No,No,No,No,COVID-3,No,yes
+996,1,3,Male,Hospitalization,2020-06-14,Yes,Yes,70,,Yes,No,No,No,Yes,No,No,Yes,No,Yes,COVID-3,Yes,yes
+997,1,3,Male,Hospitalization,2020-06-14,No,Yes,52,,No,No,No,No,No,No,No,No,No,No,COVID-3,No,yes
+998,1,3,Female,Hospitalization,2020-06-14,Yes,Yes,50,No,Yes,No,No,No,Yes,No,No,No,No,No,Not COVID or Inconclusive,Yes,yes
+999,2,3,Male,Hospitalization,2020-06-14,No,Yes,45,,Yes,No,No,No,No,No,No,No,No,No,Not COVID or Inconclusive,No,yes
